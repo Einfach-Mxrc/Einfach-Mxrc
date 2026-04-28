@@ -87,7 +87,15 @@ const developer = {
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/Einfach-Mxrc/Einfach-Mxrc/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+## 📊 Activity Graph
 
 [![Einfach-Mxrc's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Einfach-Mxrc&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
