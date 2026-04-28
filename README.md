@@ -57,14 +57,14 @@ const developer = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Einfach-Mxrc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Einfach-Mxrc&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Einfach-Mxrc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&card_width=400"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Einfach-Mxrc&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1a1b27&card_width=400"/>
 
 </div>
 
 <div align="center">
   
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Einfach-Mxrc&theme=tokyonight&hide_border=true&background=1a1b27"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Einfach-Mxrc&theme=tokyonight&hide_border=true&background=1a1b27"/>
 
 </div>
 
