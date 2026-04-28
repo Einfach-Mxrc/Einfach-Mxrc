@@ -65,7 +65,7 @@ const developer = {
 ```typescript
 const currentStatus = {
     🔭 workingOn: "Building innovative web applications",
-    🌱 learning: ["TypeScript", "React", "Next.js", "TailwindCSS", "C++"],
+    🌱 learning: ["TypeScript", "React", "Next.js", "TailwindCSS", "C++", "Cloud Architecture", "AI/ML", "System Design"],
     💬 askMeAbout: ["JavaScript", "HTML/CSS", "Python", "Node.js", "Web Development"],
     ⚡ funFact: "I turn Red Bull into code 🥫 → 💻"
 };
