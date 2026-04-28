@@ -18,7 +18,7 @@ const marc = {
     interests: ["Web Development", "Desktop Apps", "Automation", "AI/ML"],
     
     🔭 currentlyWorking: "Building innovative web and desktop applications",
-    🌱 currentlyLearning: ["TypeScript", "React", "Next.js", "TailwindCSS", "C++", "Cloud Architecture", "AI/ML", "System Design"],
+    🌱 currentlyLearning: ["TypeScript", "React", "Next.js", "C++", "Cloud Architecture", "AI/ML", "System Design"],
     💬 askMeAbout: ["JavaScript", "HTML/CSS", "Python", "Node.js", "Web Development", "AI-Assisted Dev"],
     ⚡ funFact: "I turn Effect Acai to code 🫐 → 💻"
 };
