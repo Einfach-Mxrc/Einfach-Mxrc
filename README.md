@@ -59,7 +59,7 @@ const developer = {
 ### 🤖 AI & Productivity
 <p>
 <img src="https://img.shields.io/badge/AI%20Assisted%20Development-Advanced-F7A81B?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-Intermediate-3B7EBB?style=flat-square&logo=chatbot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-F7A81B?style=flat-square&logo=chatbot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude%20AI-Advanced-F7A81B?style=flat-square&logo=anthropic&logoColor=white"/>
 </p>
 
