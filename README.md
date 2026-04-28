@@ -103,14 +103,15 @@ const currentStatus = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🚀 **[Project Alpha](#)** | Advanced automation tool for development workflows | Python, Docker, CI/CD |
-| 🌐 **[WebApp Pro](#)** | Modern full-stack web application with real-time features | React, Node.js, MongoDB |
-| 🤖 **[Bot Framework](#)** | Customizable bot framework for Discord/Telegram | TypeScript, APIs |
-| 🔧 **[DevTools Suite](#)** | Collection of developer productivity tools | Various |
+| 🏎️ **[Nuerburgring-24H-RaceDash](https://github.com/Einfach-Mxrc/Nuerburgring-24H-RaceDash)** | Real-time racing dashboard for Nürburgring 24H | JavaScript, Real-time Data |
+| 📊 **[M3UAnalyzer](https://github.com/Einfach-Mxrc/M3UAnalyzer)** | M3U playlist analyzer and manager | C#, MIT License |
+| 💼 **[CareerAI](https://github.com/Einfach-Mxrc/CareerAI)** | AI-powered career guidance and planning tool | TypeScript, AI/ML |
+| 🤖 **[discordjell](https://github.com/Einfach-Mxrc/discordjell)** | Discord bot with advanced features | JavaScript, Discord API |
+| 📈 **[tradingbot](https://github.com/Einfach-Mxrc/tradingbot)** | Automated trading bot with analytics | JavaScript, Trading APIs |
 
 </div>
 
-> 📌 *More projects coming soon! Check back later or explore my repositories below.*
+> 🔒 *Some repositories are private. More projects coming soon!*
 
 ---
 
