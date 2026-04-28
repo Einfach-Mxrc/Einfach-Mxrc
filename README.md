@@ -8,17 +8,19 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 ```typescript
-const developer = {
+const marc = {
     name: "Marc",
     role: "Software Developer",
     location: "Germany 🇩🇪",
-    interests: ["Web Development", "Automation", "System Design"],
-    currentFocus: "Building scalable applications and exploring new technologies",
-    learning: ["TypeScript", "React", "Next.js", "TailwindCSS", "C++", "Cloud Architecture", "AI/ML", "System Design"],
-    funFact: "I debug with console.log() and I'm not ashamed 😎"
+    interests: ["Web Development", "Desktop Apps", "Automation", "AI/ML"],
+    
+    🔭 currentlyWorking: "Building innovative web and desktop applications",
+    🌱 currentlyLearning: ["TypeScript", "React", "Next.js", "TailwindCSS", "C++", "Cloud Architecture", "AI/ML", "System Design"],
+    💬 askMeAbout: ["JavaScript", "HTML/CSS", "Python", "Node.js", "Web Development", "AI-Assisted Dev"],
+    ⚡ funFact: "I turn Effect Acai to code 🫐 → 💻"
 };
 ```
 
@@ -64,19 +66,6 @@ const developer = {
 </p>
 
 </div>
-
----
-
-## 🎯 What I'm Up To
-
-```typescript
-const currentStatus = {
-    🔭 workingOn: "Building innovative web and desktop applications",
-    🌱 learning: ["TypeScript", "React", "Next.js", "TailwindCSS", "C++", "Cloud Architecture", "AI/ML", "System Design"],
-    💬 askMeAbout: ["JavaScript", "HTML/CSS", "Python", "Node.js", "Web Development"],
-    ⚡ funFact: "I turn Effect Acai to code 🫐 → 💻"
-};
-```
 
 ---
 
