@@ -13,7 +13,7 @@
 ```typescript
 const marc = {
     name: "Marc",
-    role: "Software Developer",
+    role: "System Integrator & Developer",
     location: "Germany 🇩🇪",
     interests: ["Web Development", "Desktop Apps", "Automation", "AI/ML"],
     
