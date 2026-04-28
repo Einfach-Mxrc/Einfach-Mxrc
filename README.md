@@ -61,6 +61,19 @@ const developer = {
 
 ---
 
+## 🎯 What I'm Up To
+
+```typescript
+const currentStatus = {
+    🔭 workingOn: "Building innovative web applications",
+    🌱 learning: ["Cloud Architecture", "AI/ML", "System Design"],
+    💬 askMeAbout: ["JavaScript", "React", "Python", "Node.js", "Web Development"],
+    ⚡ funFact: "I turn coffee into code ☕️ → 💻"
+};
+```
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -111,6 +124,14 @@ const developer = {
 
 ---
 
+<div align="center">
+
+## 📌 Check out my pinned repositories below! 👇
+
+</div>
+
+---
+
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -145,5 +166,13 @@ Feel free to reach out if you want to build something amazing together! 🚀
 ![Profile Views](https://komarev.com/ghpvc/?username=Einfach-Mxrc&color=blueviolet&style=for-the-badge)
 
 ⭐️ From [Einfach-Mxrc](https://github.com/Einfach-Mxrc)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
