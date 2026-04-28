@@ -64,7 +64,7 @@ const developer = {
 
 ```typescript
 const currentStatus = {
-    🔭 workingOn: "Building innovative web applications",
+    🔭 workingOn: "Building innovative web and desktop applications",
     🌱 learning: ["TypeScript", "React", "Next.js", "TailwindCSS", "C++", "Cloud Architecture", "AI/ML", "System Design"],
     💬 askMeAbout: ["JavaScript", "HTML/CSS", "Python", "Node.js", "Web Development"],
     ⚡ funFact: "I turn Effect Acai to code 🫐 → 💻"
