@@ -67,7 +67,7 @@ const currentStatus = {
     🔭 workingOn: "Building innovative web applications",
     🌱 learning: ["TypeScript", "React", "Next.js", "TailwindCSS", "C++", "Cloud Architecture", "AI/ML", "System Design"],
     💬 askMeAbout: ["JavaScript", "HTML/CSS", "Python", "Node.js", "Web Development"],
-    ⚡ funFact: "RedBull gives me wings 🪽 → 💻"
+    ⚡ funFact: "I turn Effect Acai to code 🫐 → 💻"
 };
 ```
 
