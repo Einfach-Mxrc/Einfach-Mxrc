@@ -30,30 +30,30 @@ const developer = {
 
 ### 💻 Languages
 <p>
-<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-Advanced-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-Advanced-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Intermediate-3B7EBB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-Advanced-F7A81B?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-Learning-90C952?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-Learning-90C952?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-Advanced-F7A81B?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-Advanced-F7A81B?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
 ### 🚀 Frameworks & Libraries
 <p>
-<img src="https://img.shields.io/badge/React-Intermediate-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-Intermediate-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-Intermediate-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Learning-90C952?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-Advanced-F7A81B?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-Learning-90C952?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-Learning-90C952?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-<img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-Intermediate-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-Advanced-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-Expert-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-Intermediate-3B7EBB?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Intermediate-3B7EBB?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Intermediate-3B7EBB?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-Advanced-F7A81B?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-Expert-E74C3C?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Advanced-F7A81B?style=flat-square&logo=linux&logoColor=white"/>
 </p>
 
 </div>
