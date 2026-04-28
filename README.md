@@ -17,7 +17,7 @@ const developer = {
     location: "Germany 🇩🇪",
     interests: ["Web Development", "Automation", "System Design"],
     currentFocus: "Building scalable applications and exploring new technologies",
-    learning: ["Cloud Architecture", "DevOps", "AI/ML"],
+    learning: ["TypeScript", "React", "Next.js", "TailwindCSS", "C++", "Cloud Architecture", "AI/ML", "System Design"],
     funFact: "I debug with console.log() and I'm not ashamed 😎"
 };
 ```
